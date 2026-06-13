@@ -1,2 +1,2 @@
 # C
-All the C Notes Created By myself 
+📚 My C programming notes and practice programs created during my learning journey ⚙️😊

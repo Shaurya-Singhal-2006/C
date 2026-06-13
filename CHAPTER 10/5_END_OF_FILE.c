@@ -1,0 +1,21 @@
+//                                               EOF(end of file)
+
+//(fgets) return (EOF) to show that the file has ended
+
+#include<stdio.h>
+int main(){
+
+    FILE *fptr;
+    fptr = fopen("test.txt","r");
+
+    char ch;
+    ch = fgetc(fptr);
+
+    while(ch != EOF){
+        printf("%c",ch);
+        ch = fgetc(fptr);
+    }
+
+    fclose(fptr);
+    return 0;
+}

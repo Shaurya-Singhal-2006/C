@@ -1,4 +1,10 @@
 # C
 📚 My C programming notes and practice programs created during my learning journey ⚙️😊
 
-![Developer GIF](https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif)
+<p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/74038190/238200622-e0d299f2-767c-4c21-bd49-90f2a19f1a78.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODEzOTAwMzIsIm5iZiI6MTc4MTM4OTczMiwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjItZTBkMjk5ZjItNzY3Yy00YzIxLWJkNDktOTBmMmExOWYxYTc4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjEzVDIyMjg1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1ZGJlMGQ0NWYzMzdjMDVmOGM0MWMxZDgxMzBkODgzZDQwNDk0OGJlZDEzMDU5YzlkNGZjNzJlZTRmODY2MDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.lXYBcmHUgimPoQMRc1FcuMHU2Jvj8rosxg4iSNTn8sQ" width="250" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="250" />
+  
+</p>
